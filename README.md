@@ -1,5 +1,8 @@
 # password-gen
 
+Link to deployed site:
+https://schwamar93.github.io/password-gen/
+
 <img width="1293" alt="Screen Shot 2022-07-26 at 10 47 38 AM" src="https://user-images.githubusercontent.com/98289954/181076193-2d5169f1-c32e-422b-899c-e6323781da41.png">
 
 <img width="1293" alt="Screen Shot 2022-07-26 at 10 47 42 AM" src="https://user-images.githubusercontent.com/98289954/181076705-82a3a836-0fc3-4125-acd1-c7074c4cc496.png">
